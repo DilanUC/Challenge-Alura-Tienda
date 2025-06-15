@@ -17,6 +17,7 @@ El propósito fundamental de este análisis es **proporcionar una base de datos 
 
 El proyecto está organizado de manera sencilla para facilitar su comprensión y ejecución:
 
+~~~
 .
 ├── AluraStoreLatam.ipynb
 ├── README.md
@@ -25,6 +26,7 @@ El proyecto está organizado de manera sencilla para facilitar su comprensión y
 └── tienda_2.csv
 └── tienda_3.csv
 └── tienda_4.csv
+~~~
 
 * `AluraStoreLatam.ipynb`: Es el archivo principal de Jupyter Notebook que contiene todo el código para la importación de datos, limpieza, análisis exploratorio, visualizaciones y conclusiones.
 * `README.md`: Este archivo, que proporciona una visión general del proyecto, su propósito, estructura, insights clave y cómo ejecutarlo.
