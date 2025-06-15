@@ -1,6 +1,8 @@
 # Análisis de Datos para Alura Store Latam
 
-![Alura Store Logo](https://www.alura.com.br/assets/img/alura-logo.svg) Este repositorio contiene un análisis exhaustivo de datos enfocado en identificar la tienda con el rendimiento más bajo dentro de la red de Alura Store Latam. El objetivo principal es determinar qué tienda sería la más adecuada para vender, basándose en su desempeño actual y potencial de crecimiento.
+![Alura Store Logo](https://www.alura.com.br/assets/img/alura-logo.svg) 
+
+Este repositorio contiene un análisis exhaustivo de datos enfocado en identificar la tienda con el rendimiento más bajo dentro de la red de Alura Store Latam. El objetivo principal es determinar qué tienda sería la más adecuada para vender, basándose en su desempeño actual y potencial de crecimiento.
 
 ## 🎯 Propósito del Análisis
 
